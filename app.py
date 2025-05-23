@@ -3,8 +3,7 @@ import requests
 
 app = Flask(__name__)
 
-API_KEY = "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"  # Dein API-Key hier
-
+API_KEY = "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"
 html_code = '''
 <!DOCTYPE html>
 <html lang="de">
